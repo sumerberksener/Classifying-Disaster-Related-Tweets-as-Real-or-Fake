@@ -6,3 +6,6 @@ I trained four different NLP models to classify the tweets. The accuracy scores 
 2. second 
 3. third
 4.fourth
+
+
+The data I used can also be obtained from this [Kaggle link](https://www.kaggle.com/competitions/nlp-getting-started/overview).
